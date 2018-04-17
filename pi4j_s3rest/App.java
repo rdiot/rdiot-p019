@@ -17,10 +17,10 @@ import com.rdiot.s3rest.util.HttpUtils;
 public class App 
 {
     /** Put your access key here **/
-    private static final String awsAccessKey = "AKIAICI3E6CHXCB6I7XA";
+    private static final String awsAccessKey = "input";
     
     /** Put your secret key here **/
-    private static final String awsSecretKey = "rp5rpP1g6t181g9yrshw1UnTyY+Y/ag51Uut2Pu8";
+    private static final String awsSecretKey = "input";
     
     /** Put your bucket name here **/
     private static final String bucketName = "rdkim-test";
